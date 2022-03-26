@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.div1-class {
+    background-color: rgb(163, 0, 163);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.div2-class {
+    background-color: rgb(255, 192, 203);
+    height: 100%;
+    width: 250px;
+    border: 20% solid red;
+
+}
+
+.div3-class {
+    background-color: rgb(0, 255, 255);
+    height: 88%;
+    width: 30%;
+
+}

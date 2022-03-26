@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-color: rgb(177, 169, 176);
+}
+
+.div1-class {
+    background-color: white;
+    height: 500px;
+    width: 50vh;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div2-class {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.div3-class {
+    background-color: rgb(189, 129, 17);
+    height: 100px;
+    width: 30%;
+}
+
+.div4-class {
+    background-color: rgb(2, 145, 2);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin: 50px 0 0 50px;
+
+
+}

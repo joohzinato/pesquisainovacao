@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+
+.div1-class {
+    background-color: rgb(255, 0, 0);
+    height: 50px;
+    width: 50px;
+    border: 2px solid green;
+    margin: 100px 0 0 0;
+}
+
+.div2-class {
+    background-color: black;
+    height: 50vh;
+    width: 50%;
+    border: 10px dashed red ;
+    margin: 100px 0 0 100px;
+
+}

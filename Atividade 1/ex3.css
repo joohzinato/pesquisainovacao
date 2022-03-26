@@ -1,0 +1,30 @@
+.div1-class {
+    background-color: rgb(255, 166, 0);
+    height: 500px;
+    width: 500px;
+    }
+
+.div2-class {
+    background-color: rgb(79, 255, 79);
+    width: 50%;
+    height: 50%;
+    }
+
+.div3-class {
+    color: white;
+    background-color: rgb(255, 0, 0);
+    font-size: 25px;
+    font-weight: bold;
+    }
+
+.div4-class {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(11, 178, 255);
+    }
+
+.div5-class {
+    height: 50%;
+    width: 75vw;
+    background-color: rgb(255, 0, 0)
+    }
